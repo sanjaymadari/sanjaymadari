@@ -1,19 +1,26 @@
+
 ### Hi there 👋
 
-<!--
-**sanjaymadari/sanjaymadari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Sanjay Madari
 
-Here are some ideas to get you started:
+###### ***Software Developer*** | ***Content Creator***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### I'm Sanjay Madari
-### Software Developer | Content Creator
-### YouTube: Sanjay Madari
+* **YouTube:** [Sanjay Madari](https://youtube.com/)
+
+<!-- ### I create videos, courses, or articles on the following topics:
+
+* Python
+* Fast API
+* Django
+* Vue.js
+* JavaScript
+* Sass -->
+
+### My GitHub stats
+
+This doesn't take into account the work done in forks, organizations, or private repos.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=sanjaymadari&show_icons=true)
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaymadari)](https://github.com/anuraghazra/github-readme-stats) -->
