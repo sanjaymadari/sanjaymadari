@@ -5,7 +5,7 @@
 
 ###### ***Software Developer*** | ***Content Creator***
 
-* **YouTube:** [Sanjay Madari](https://youtube.com/)
+* **YouTube:** [Sanjay Madari](https://www.youtube.com/channel/UCHTCz6VVzPb9bBmcH3hYeJg)
 
 <!-- ### I create videos, courses, or articles on the following topics:
 
