@@ -23,4 +23,4 @@ This doesn't take into account the work done in forks, organizations, or private
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sanjaymadari&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaymadari)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaymadari)
