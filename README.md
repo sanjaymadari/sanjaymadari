@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Sanjay Madari
+Software Developer | Content Creator
+YouTube: Sanjay Madari
