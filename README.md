@@ -45,15 +45,16 @@
 
 <div align="center">
 
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaymadari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-![Sanjay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjaymadari&theme=radical&hide_border=true&background=0D1117)
+[![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaymadari&show_icons=true&theme=radical&hide_border=true)](https://github.com/sanjaymadari)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaymadari&layout=compact&theme=radical&hide_border=true)](https://github.com/sanjaymadari)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjaymadari&theme=radical&hide_border=true)](https://github.com/sanjaymadari)
 
 </div>
 
 <br/>
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sanjaymadari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
 
