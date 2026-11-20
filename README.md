@@ -57,11 +57,3 @@
 <div align="center">
 
 </div>
-
-## 🏆 Trophies & Badges
-
-<div align="center">
-  <a href="https://holopin.io/@sanjaymadari">
-    <img src="https://holopin.me/sanjaymadari" alt="@sanjaymadari's Holopin board" />
-  </a>
-</div>
